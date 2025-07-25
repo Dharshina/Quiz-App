@@ -20,7 +20,7 @@ A fully functional **Quiz Application backend** developed using **Spring Boot**,
 - **Spring Boot**
 - **Spring Web / REST**
 - **Spring Data JPA**
-- **H2 / MySQL (configurable)**
+- **Postgres**
 - **Lombok**
 - **Maven**
 
